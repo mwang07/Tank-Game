@@ -1,0 +1,16 @@
+IDE: IntelliJ 2019.2.3
+Version of Java: JDK 12
+How to run: Load all file into your IDE and select correct JDK. Go to GameWorld.java and run the main class.
+Control:
+	Player 1:
+		UP   : W
+		DOWN : S
+		LEFT : A
+		RIGHT: D
+		SHOOT: SPACE
+	Player 2:
+		UP   : UP Arrow
+		DOWN : DOWN Arrow
+		LEFT : LEFT Arrow
+		RIGHT: RIGHT Arrow
+		SHOOT: ENTER
